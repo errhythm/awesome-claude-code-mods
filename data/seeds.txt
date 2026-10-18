@@ -36,6 +36,7 @@ dot-agi/high-command
 dot-agi/sandbox-tuner
 edsoncantuaria/cc-cost
 edtrackai/claude-code-guardrails-lite
+errhythm/ccswap
 FunJim/claude-code-add-to-chat
 gerricchaplin/pr-pulse
 griches/buildpane
